@@ -1,6 +1,6 @@
 # Activity-audit
-## NAME: NITHILA S
-## REG NO: 212224040224
+## NAME : HEMALATHA R
+## REG NO: 212224040114
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
 
 ## Aim
